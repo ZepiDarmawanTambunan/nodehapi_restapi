@@ -1,0 +1,4 @@
+- npm init -y
+- npm i hapi
+- npm i nodemon
+- npm i nanoid@3.x.x   //utk id
